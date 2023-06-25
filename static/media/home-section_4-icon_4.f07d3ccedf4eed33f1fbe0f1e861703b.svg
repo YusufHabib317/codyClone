@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xmlSpace="preserve">
+<style type="text/css">
+	.st0{fill:#D1D7E0;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:url(#SVGID_00000078046815507998745610000016439964235475419009_);}
+</style>
+<path class="st0" d="M512,405.3V263.3C512,125,407.4,9.7,273.8,0.6c-74.1-4.9-146.7,22.1-199,74.5C22.5,127.5-4.5,200.1,0.6,274.2  C10,409.8,129.7,512,279.1,512h126.2C464.2,512,512,464.1,512,405.3L512,405.3z M271,43.2c111.3,7.6,198.4,104.2,198.4,220.1v142.1  c0,35.3-28.7,64-64,64H279.1c-128.7,0-228-83.3-235.9-198.1c-4.3-61.8,18.2-122.3,61.8-166c40.1-40.2,94.6-62.6,151.3-62.6  C261.2,42.7,266.1,42.8,271,43.2L271,43.2z"></path>
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="221.952" y1="373.3333" x2="285.952" y2="373.3333">
+		<stop offset="0" style="stop-color:#1A57FE"></stop>
+		<stop offset="1" style="stop-color:#FF33E1"></stop>
+	</linearGradient>
+	<circle class="st1" cx="254" cy="373.3" r="32"></circle>
+	
+		<linearGradient id="SVGID_00000121245478963777608500000006768382422591990710_" gradientUnits="userSpaceOnUse" x1="168.5974" y1="213.1457" x2="339.2496" y2="213.1457">
+		<stop offset="0" style="stop-color:#1A57FE"></stop>
+		<stop offset="1" style="stop-color:#FF33E1"></stop>
+	</linearGradient>
+	<path style="fill:url(#SVGID_00000121245478963777608500000006768382422591990710_);" d="M337.9,176.3c-6-34.4-34.3-62.7-68.7-68.7   c-25.2-4.4-50.8,2.4-70.2,18.6c-19.3,16.3-30.5,40.1-30.5,65.3c0,11.8,9.6,21.3,21.3,21.3s21.3-9.5,21.3-21.3   c0-12.6,5.5-24.5,15.2-32.7c9.8-8.2,22.4-11.6,35.3-9.3c16.8,2.9,31.1,17.3,34,34c3.3,18.6-5.1,36.4-21.4,45.3   c-24.7,13.6-41.9,42.2-41.9,69.6c0,11.8,9.6,21.3,21.3,21.3s21.3-9.5,21.3-21.3l0,0c0-12,8.7-26.1,19.8-32.3   C327.1,248.8,344.3,212.6,337.9,176.3z"></path>
+</g>
+</svg>
