@@ -1,25 +1,29 @@
-import logo from './logo.svg';
-import './App.css';
+import BtnToTop from "./component/BtnToTop/BtnToTop";
+import EmPower from "./component/emPower/EmPower";
+import Faq from "./component/faq/Faq";
+import Footer from "./component/footer/Footer";
+import HowItWorks from "./component/howItWorks/HowItWorks";
+import Integrate from "./component/integrate/Integrate";
+import Landing from "./component/landing/Landing";
+import Trusted from "./component/trusted/Trusted";
+import WhatCanCodyDo from "./component/WhatCanCodyDo/WhatCanCodyDo";
+import WhatCody from "./component/whatCody/WhatCody";
+import WorkLang from "./component/workLang/WorkLang";
 
-function App() {
+export default function Home() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="relative">
+      <BtnToTop />
+      <Landing />
+      <WhatCody />
+      <WhatCanCodyDo />
+      <HowItWorks />
+      <WorkLang />
+      <Integrate />
+      <Trusted />
+      <Faq />
+      <EmPower />
+      <Footer />
     </div>
   );
 }
-
-export default App;

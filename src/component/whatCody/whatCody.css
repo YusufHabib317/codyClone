@@ -1,0 +1,16 @@
+.gloy:hover {
+  animation: gloy infinite 2s ease-in;
+}
+@keyframes gloy {
+  0%,
+  100% {
+    /* box-shadow: 0 0 20px #e46c9e; */
+    box-shadow: 0px 0px 10px 7px rgba(228, 108, 158, 1);
+    border: 2px solid #ff8cbc;
+  }
+  50% {
+    /* box-shadow: 0 0 30px #e46c9e; */
+    box-shadow: 0px 0px 20px 7px rgba(228, 108, 158, 1);
+    border: 2px solid #ff8cbc;
+  }
+}

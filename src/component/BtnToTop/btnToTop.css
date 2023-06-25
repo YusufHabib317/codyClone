@@ -1,0 +1,15 @@
+.btn-top {
+  background: url(https://meetcody.ai/wp-content/themes/cody_v1/assets/images/arrow.png)
+    no-repeat 50%;
+  background-size: cover;
+  bottom: 1.875rem;
+  cursor: pointer;
+  font-size: 0;
+  height: 2.1875rem;
+  outline: 0;
+  position: fixed;
+  right: 1.875rem;
+  text-indent: -9999px;
+  width: 2.1875rem;
+  z-index: 999;
+}

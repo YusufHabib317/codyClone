@@ -1,0 +1,37 @@
+.Isection {
+  background: linear-gradient(
+    1deg,
+    rgba(32, 33, 34, 1) 0%,
+    rgba(32, 33, 61, 1) 74.7%
+  );
+}
+.mid {
+  animation: debounce 2s infinite ease-out;
+}
+
+@keyframes debounce {
+  0%,
+  100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.2);
+  }
+}
+
+.gloy:hover {
+  animation: gloy infinite 2s ease-in;
+}
+@keyframes gloy {
+  0%,
+  100% {
+    /* box-shadow: 0 0 20px #e46c9e; */
+    box-shadow: 0px 0px 10px 7px rgba(228, 108, 158, 1);
+    border: 0px solid #ff8cbc;
+  }
+  50% {
+    /* box-shadow: 0 0 30px #e46c9e; */
+    box-shadow: 0px 0px 20px 7px rgba(228, 108, 158, 1);
+    border: 0px solid #ff8cbc;
+  }
+}

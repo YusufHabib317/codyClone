@@ -1,0 +1,14 @@
+.one {
+  background: radial-gradient(
+    ellipse closest-side at 38% 52%,
+    rgba(27, 0, 255, 0.7) 0%,
+    rgba(18, 19, 36, 1) 100%
+  );
+}
+.two {
+  background: radial-gradient(
+    ellipse closest-corner at 69% 64%,
+    rgba(162, 0, 255, 0.77) 0.3%,
+    rgba(18, 19, 36, 1) 100%
+  );
+}
